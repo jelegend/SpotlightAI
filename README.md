@@ -100,9 +100,11 @@ This section is plainly designed to check the the above parameters for the given
 ```bash
 ['Boston', 'Longmeadow', 'MA', 'Rhode Island', 'Connecticut', 'Brooklyn', 'Chicago', 'San Francisco', 'Cambridge', 'Sugar Land', 'TX', 'NYC']
 ```
+Ideal Case:
 ```python
 answers = ['Indo', 'Boston','Longmeadow', 'MA', 'Rhode Island', 'Connecticut', 'Sugar Land', 'TX', 'Brooklyn', 'NYC', 'Chicago', 'San Francisco', 'Cambridge']
 ```
+Performance of NLP Code :
 ```bash
 Correct: 12
 Ideal: 13
