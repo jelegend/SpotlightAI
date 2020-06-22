@@ -110,7 +110,7 @@ Correct: 12
 Ideal: 13
 Accuracy: 92.3076923076923
 False Identification: 0
-Time Elapsed during Identification:  2.3060209 sec
+Time Elapsed during Identification and Validation:  2.3060209 sec
 ```
 
 
