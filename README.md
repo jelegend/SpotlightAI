@@ -98,6 +98,12 @@ Thus as a compromise between speed and accuracy I have opted for off the shelf s
 This section is plainly designed to check the the above parameters for the given task. The results obtained are :
 
 ```bash
+['Boston', 'Longmeadow', 'MA', 'Rhode Island', 'Connecticut', 'Brooklyn', 'Chicago', 'San Francisco', 'Cambridge', 'Sugar Land', 'TX', 'NYC']
+```
+```python
+answers = ['Indo', 'Boston','Longmeadow', 'MA', 'Rhode Island', 'Connecticut', 'Sugar Land', 'TX', 'Brooklyn', 'NYC', 'Chicago', 'San Francisco', 'Cambridge']
+```
+```bash
 Correct: 12
 Ideal: 13
 Accuracy: 92.3076923076923
